@@ -17,8 +17,14 @@ $$J(w,b)=\frac{1}{2n}\sum_{i=1}^{m}(f_{w,b}(x^{(i)})-y^{(i)})^{2}$$
 The aim is to find values of $w,b$ such that $J(w,b)$ is minimized. This is achieved by repeating the following algorithm until convergence
 
 $$w = w - \alpha\frac{\partial}{\partial w}J(w,b)$$
+
 $$b = b - \alpha\frac{\partial}{\partial b}J(w,b)$$
 
 where $\alpha$ is the learning rate. 
 
+# Gradient Descent Visualised
+
+
+
+# Results
 
