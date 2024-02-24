@@ -10,7 +10,7 @@ $$f_{w,b}(x)=wx+b$$
 
 where $w$ and $b$ respectfully are the weight and bias parameters. The associated cost-function is given by
 
-$$J(w,b)=\frac{1}{2n}\Sum_{i=1}^{m}(f_{w,b}(x^{(i)})-y^{(i)})^{2}$$
+$$J(w,b)=\frac{1}{2n}\Sigma_{i=1}^{m}(f_{w,b}(x^{(i)})-y^{(i)})^{2}$$
 
 # The Gradient Descent Algorithm
 
