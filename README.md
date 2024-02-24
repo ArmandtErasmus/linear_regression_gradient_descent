@@ -24,7 +24,8 @@ where $\alpha$ is the learning rate.
 
 # Gradient Descent Visualised
 
-
+![Gradient Descent Visualised](https://github.com/ArmandtErasmus/linear_regression_gradient_descent/blob/main/gradient_descent_visualised.png)
 
 # Results
 
+![Linear Regression](https://github.com/ArmandtErasmus/linear_regression_gradient_descent/blob/main/Linear_Regression.png)
